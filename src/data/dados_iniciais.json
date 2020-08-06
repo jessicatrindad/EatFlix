@@ -1,0 +1,168 @@
+{
+  "categorias": [
+    {
+      "titulo": "Adocica, meu amor",
+      "link": "https://youtu.be/9bTYRWUbRcs?list=PL7biWkm0dNqbIv6Pipwp-2LW8RsaRq3FS",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "E aí, o que vai rolar de sobremesa?"
+        
+      },
+      "videos": [
+        {
+          "titulo": "Suflê de creme de avelã",
+          "url": "https://youtu.be/t8aUh_vs-g8?list=PL9TlxiW7M4kFOEH3_koSccq33sf7NSm3D"
+        },
+        {
+          "titulo": "Brownie  super cremoso",
+          "url": "https://youtu.be/gZW3omAJLPE"
+        },
+        {
+          "titulo": "Bolo de banana com chocolate",
+          "url": "https://youtu.be/GhdeodmJ6UA?list=PLBffNdwe6kOhSRNYm0hoF1Pt7m-uQ3eAQ"
+        },
+        {
+          "titulo": "Cheesecake japonês",
+          "url": "https://www.youtube.com/watch?v=d_fT4XHi92g&list=PLBffNdwe6kOhSRNYm0hoF1Pt7m-uQ3eAQ&index=5"
+        },
+        {
+          "titulo": "Panqueca Americana",
+          "url": "https://www.youtube.com/watch?v=lA4xZaJh_7k&list=PL7biWkm0dNqbIv6Pipwp-2LW8RsaRq3FS&index=16"
+        },
+        {
+          "titulo": "Bolo Óreo fácil de frigideira",
+          "url": "https://www.youtube.com/watch?v=9bTYRWUbRcs&list=PL7biWkm0dNqbIv6Pipwp-2LW8RsaRq3FS&index=6"
+        },
+        {
+          "titulo": "Churros de doce de leite",
+          "url": "https://www.youtube.com/watch?v=JXQjXyqN6y8&list=PLBffNdwe6kOhSRNYm0hoF1Pt7m-uQ3eAQ&index=52"
+        }        
+      ]
+    },
+    {
+      "titulo": "Hora do almoço",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Boca foi feita pa cumê"
+        
+      },
+      "videos": [
+        {
+          "titulo": "Sobrecoxa de frango com batatas ao murro",
+          "url": "https://www.youtube.com/watch?v=hQThCgApAwU"
+        },
+        {
+          "titulo": "Escondidinho de ragú de linguiça com mandioquinha",
+          "url": "https://www.youtube.com/watch?v=Q5GI1OrE3lM"
+        },
+        {
+          "titulo": "Quiche de alho poró com alecrim",
+          "url": "https://www.youtube.com/watch?v=QJ0224hzCw4"
+        },
+        {
+          "titulo": "Nhoque de abóbora com molho de laranja",
+          "url": "https://www.youtube.com/watch?v=PMh0hFL4LBc"
+        }, 
+        {
+          "titulo": "Lasanha 4 queeijos com molhor branco super fácil",
+          "url": "https://www.youtube.com/watch?v=KoHtWBUUrZc"
+        }
+      ]
+    },
+    {
+      "titulo": "Pra impressionar o crush",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Roi, Letícia né?"
+      },
+      "videos": [
+        {
+          "titulo": "Gallete de cogumelos",
+          "url": "https://www.youtube.com/watch?v=xkKIuAIJIw8"
+        },
+        {
+          "titulo": "Risotto de funghi com costelas flambadas",
+          "url": "https://youtu.be/1QGkki5LEl4"
+        },
+        {
+          "titulo": "Macarrão com molho de limão e parmesão",
+          "url": "https://www.youtube.com/watch?v=BJRqazyavWo"
+        },
+        {
+          "titulo": "Filé ao molho de queijos",
+          "url": "https://www.youtube.com/watch?v=LMQs4sdvDTA"
+        },
+        {
+          "titulo": "Carbonara",
+          "url": "https://www.youtube.com/watch?v=OAcE699vo6s"
+        }
+      ]
+    },
+    {
+      "titulo": "Do Veggie ao Vegan",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Doces e salgados"
+      },
+      "videos": [
+        {
+          "titulo": "Brownie de feijão",
+          "url": "https://www.youtube.com/watch?v=WpK8yQgxDY8"
+        },
+        {
+          "titulo": "Tortinha de maçã com caramelo",
+          "url": "https://www.youtube.com/watch?v=s0KLbLqZSOQ"
+        },
+        {
+          "titulo": "Frango frito vegano",
+          "url": "https://www.youtube.com/watch?v=c0wq767F1ns"
+        },
+        {
+          "titulo": "Brigadeiro vegano",
+          "url": "https://www.youtube.com/watch?v=Zr1fVjDYsQk"
+        },
+        {
+          "titulo": "Almôndegas de feijão preto e molho de beterraba e cenoura",
+          "url": "https://www.youtube.com/watch?v=QWhn8lXglLY"
+        },
+        {
+          "titulo": "Chilli vegano",
+          "url": "https://www.youtube.com/watch?v=4CkWjWyyBw4"
+        }
+      ]
+    },
+    {
+      "titulo": "Pastinhas",
+      "cor": "red",
+      "link_extra": {
+        "text": "Pra comer com torradinhas"
+
+      },
+      "videos": [
+        {
+          "titulo": "Homus",
+          "url": "https://www.youtube.com/watch?v=q0X64Dw4mKo&t=104s"
+        },
+        {
+          "titulo": "Homus de beterraba",
+          "url": "https://www.youtube.com/watch?v=uhtllDBD5xo"
+        },
+        {
+          "titulo": "Babaganoush",
+          "url": "https://www.youtube.com/watch?v=rW1lTP0jDpg"
+        },
+        {
+          "titulo": "Patê de azeitona",
+          "url": "https://www.youtube.com/watch?v=Viq_m03cWbw"
+        },
+        {
+          "titulo": "Requeijão caseiro",
+          "url": "https://www.youtube.com/watch?v=7XG2OZNnUos"
+        }
+      ]
+    }
+  ]
+}
+ 
+    
+      

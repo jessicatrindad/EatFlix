@@ -1,0 +1,13 @@
+{
+    "categorias": [
+      {
+        "id": 1,
+        "titulo": "Adocica, meu amor",
+        "cor": "#6BD1FF",
+        "link_extra": {
+          "text": "E ai, o que vai rolar de sobremesa?",
+          "url": "https://youtu.be/t8aUh_vs-g8?list=PL9TlxiW7M4kFOEH3_koSccq33sf7NSm3D"
+        }
+      }
+     ]
+    }
